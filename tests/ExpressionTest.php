@@ -1,8 +1,8 @@
 <?php
 
-namespace ApishkaTest\DbQuery\PostgreSql;
+namespace ApishkaTest\DbQuery\StdLib;
 
-use Apishka\DbQuery\Expression;
+use Apishka\DbQuery\StdLib\Expression;
 
 /**
  * Query test

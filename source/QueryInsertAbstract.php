@@ -1,6 +1,6 @@
 <?php
 
-namespace Apishka\DbQuery;
+namespace Apishka\DbQuery\StdLib;
 
 /**
  * Query insert abstract

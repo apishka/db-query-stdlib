@@ -1,6 +1,6 @@
 {
-    "name": "apishka/db-query",
-    "description": "Database query builder",
+    "name": "apishka/db-query-stdlib",
+    "description": "Database query builder standart library",
     "keywords": ["db", "database", "sql", "nosql", "query", "builder"],
     "license": "MIT",
     "authors": [
@@ -20,12 +20,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Apishka\\DbQuery\\": "source"
+            "Apishka\\DbQuery\\StdLib\\": "source"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "ApishkaTest\\DbQuery\\": "tests"
+            "ApishkaTest\\DbQuery\\StdLib\\": "tests"
         }
     }
 }
