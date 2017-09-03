@@ -5,7 +5,7 @@ namespace ApishkaTest\DbQuery\StdLib;
 use Apishka\DbQuery\StdLib\Expression;
 
 /**
- * Query test
+ * Expression test
  */
 
 class ExpressionTest extends \PHPUnit\Framework\TestCase
